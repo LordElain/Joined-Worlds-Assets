@@ -1,2 +1,2 @@
-# Parallel-Worlds-Assets
+# Joined-Worlds-Assets
 Assets for the Game "Parallel Worlds"
